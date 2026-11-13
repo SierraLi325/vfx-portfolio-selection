@@ -1,0 +1,4 @@
+interface:
+  display_name: "特效作品集选题"
+  short_description: "结合实机证据、技术路线、评分量表与工时预算，选择互补的特效作品集 Demo"
+  default_prompt: "使用 $vfx-portfolio-selection，依据实机参考和实现资料比较候选 Demo，解释评分与工期，并推荐互补的制作组合。"
